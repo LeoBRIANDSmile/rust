@@ -1,0 +1,5 @@
+/home/lebri/rust/ownership/target/debug/deps/libownership-f91fec1ab15aaea2.rmeta: src/main.rs
+
+/home/lebri/rust/ownership/target/debug/deps/ownership-f91fec1ab15aaea2.d: src/main.rs
+
+src/main.rs:
