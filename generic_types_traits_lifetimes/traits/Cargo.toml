@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-traits_lib = { "https://github.com/LeoBRIANDSmile/rust.git" }
+traits_lib = {path = "../traits_lib"}

@@ -1,0 +1,1 @@
+/home/lebri/rust/generic_types_traits_lifetimes/traits/target/debug/traits: /home/lebri/rust/generic_types_traits_lifetimes/traits/src/lib.rs /home/lebri/rust/generic_types_traits_lifetimes/traits/src/main.rs /home/lebri/rust/generic_types_traits_lifetimes/traits_lib/src/lib.rs

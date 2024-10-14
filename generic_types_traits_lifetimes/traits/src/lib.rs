@@ -1,6 +1,6 @@
 pub trait Summary {
     fn summarize(&self) -> String {
-        String::from("(Read more...)")             // Default behaviour if summarize is not defined in a struct
+        String::from("(Read more...)")             // Default behaviour if summarize is not redefined in a struct
     }
 }
 
@@ -13,7 +13,7 @@ pub struct NewsArticle {
 
 impl Summary for NewsArticle {
     fn summarize(&self) -> String {
-        format!("'{}', by {} ({})", self.headline, self.author, self.location)
+        format!("{}, by {} ({})", self.headline, self.author, self.location)
     }
 }
 
