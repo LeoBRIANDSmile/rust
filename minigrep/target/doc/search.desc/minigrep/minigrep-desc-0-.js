@@ -1,0 +1,1 @@
+searchState.loadedDescShard("minigrep", 0, "My Crate\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nrun the grep function.")

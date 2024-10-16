@@ -1,0 +1,9 @@
+[package]
+name = "minigrep"
+version = "1.0.0"
+edition = "2021"
+license = "no_license"
+description = "A knock-off version of grep command line tool that barely passes inspection!"
+
+[dependencies]
+
